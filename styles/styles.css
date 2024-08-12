@@ -1,0 +1,497 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    text-align: center;
+    font-weight: bold;
+    left: 20%;
+    top: 7%;
+    position: absolute;
+    font-size: 45px;
+    color: white;
+}
+
+/* .options{
+    text-align: left;
+    display: flex;
+    background-color: black;
+}  */
+
+.home1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 40%;
+    top: 7%;
+    position: absolute;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.about1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 45%;
+    top: 7%;
+    position: absolute;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.destination1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 50%;
+    top: 7%;
+    position: absolute;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.tour1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 58%;
+    top: 7%;
+    position: absolute;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.blog1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 63%;
+    top: 7%;
+    position: absolute;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.login1{
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    left: 75%;
+    top: 7%;
+    position: absolute;
+    color: #FA7436;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+
+.cta-button{
+    background-color: #FA7436;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: background-color 0.5s;
+    top: 6%;
+    left: 80%;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+}
+
+.image{
+    left: 60%;
+    position: absolute;
+}
+
+.image1{
+    left: 55%;
+    position: absolute;
+    top: 27%;
+}
+
+.image2{
+    left: 55%;
+    position: absolute;
+    top: 58%;
+}
+
+.image3{
+    left: 80%;
+    position: absolute;
+    top: 40%;
+}
+
+.text1{
+    position: absolute;
+    font-size: 33px;
+    top: 25%;
+    left: 20%;
+    font-family: Volkhov;
+}
+
+.getting {
+    font-family: "Volkhov", serif;
+}
+
+.journey-span{
+    color: #FA7436;
+}
+
+.text2{
+    position: absolute;
+    font-size: 18px;
+    line-height: 40px;
+    width: 497px;
+    height: 120px;
+    top: 65%;
+}
+
+
+
+.button1 {
+    background-color: white;
+    color: #FA7436;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 3px;
+    border-color: #FA7436;
+    font-weight: bold;
+    transition: background-color 0.5s;
+    top: 120%;
+    left: 1%;
+    position: absolute;
+}
+
+.sample1 {
+    top: 90%;
+    left: 30%;
+    position: absolute;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+.common1{
+    top: 95%;
+    left: 30%;
+    position: absolute;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.sample2{
+    top: 90%;
+    left: 40%;
+    position: absolute;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+.common2{
+    top: 95%;
+    left: 40%;
+    position: absolute;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.sample3{
+    top: 90%;
+    left: 50%;
+    position: absolute;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+.common3{
+    top: 95%;
+    left: 50%;
+    position: absolute;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.vector1{
+    top: 90.7%;
+    left: 34.5%;
+    position: absolute;
+    font-size: 15px;
+}
+
+.vector2{
+    top: 90.7%;
+    left: 42.5%;
+    position: absolute;
+    font-size: 15px;
+}
+
+.vector3{
+    top: 90.7%;
+    left: 53.2%;
+    position: absolute;
+    font-size: 15px;
+}
+
+.button2{
+    background-color: #FA7436;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: background-color 0.5s;
+    top: 90%;
+    left: 60%;
+    position: absolute;
+    border-color: #FA7436;
+}
+
+.heading1{
+    left: 40%;
+    top: 110%;
+    position: absolute;
+    font-size: 33px;
+}
+
+.span1{
+    color: #FA7436;
+}
+
+.content1{
+    left: 40%;
+    top: 110%;
+    position: absolute;
+    font-size: 17px;
+    word-spacing: 2px;
+}
+
+.box1{
+    left: 280px;
+    top: 950px;
+    position: absolute;
+    border-radius: 8px;
+    height: 278px;
+    width: 370px;
+}
+
+.box2{
+    left: 620px;
+    top: 980px;
+    position: absolute;
+    border-radius: 8px;
+    height: 190px;
+    width: 270px;
+}
+
+.box3{
+    left: 940px;
+    top: 980px;
+    position: absolute;
+    border-radius: 8px;
+    height: 190px;
+    width: 270px;
+}
+
+.content2{
+    left: 35%;
+    top: 180%;
+    position: absolute;
+    width: 675px;
+    height: 142px;
+}
+
+.madrid{
+    width: 170px;
+    height: 300px;
+    top: 220%;
+    left: 17%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.firenze{
+    width: 270px;
+    height: 400px;
+    top: 214%;
+    left: 33%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.paris{
+    width: 180px;
+    height: 300px;
+    top: 220%;
+    left: 55%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.london{
+    width: 180px;
+    height: 300px;
+    top: 220%;
+    left: 75%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.arrows{
+    position: absolute;
+    top: 270%;
+    left: 50%;
+}
+
+.content4{
+    top: 290%;
+    left: 37%;
+    position: absolute;
+}
+
+.rome{
+    top: 320%;
+    left: 15%;
+    border-radius: 8px;
+    width: 330px;
+    height: 330px;
+    position: absolute;
+}
+
+.london1{
+    top: 314%;
+    left: 40%;
+    border-radius: 8px;
+    width: 332px;
+    height: 400px;
+    position: absolute;
+}
+
+.osaka{
+    top: 320%;
+    left: 70%;
+    border-radius: 8px;
+    width: 220px;
+    height: 300px;
+    position: absolute;
+}
+
+.content5{
+    top: 380%;
+    left: 20%;
+    position: absolute;
+}
+
+.client1{
+    top: 380%;
+    left: 48%;
+    position: absolute;
+}
+
+.client2{
+    top: 395%;
+    left: 54%;
+    position: absolute;
+    border: 2px solid #66666614;
+}
+
+.heading1{
+    left: 35%;
+    top: 460%;
+    position: absolute;
+    font-size: 40px;
+    font-family: "Volkhov", serif;
+}
+
+.subheading1{
+    color: #FA7436;
+}
+
+.page6card1{
+    left: 19%;
+    top: 480%;
+    position: absolute;
+    height: 320px;
+    width: 220px;
+}
+
+.page6card2{
+    left: 37%;
+    top: 480%;
+    position:absolute;
+    height: 320px;
+    width: 220px;
+}
+
+.page6card3{
+    left: 55%;
+    top: 480%;
+    position: absolute;
+    height: 320px;
+    width: 220px;
+}
+
+.page6card4{
+    left: 73%;
+    top: 480%;
+    position: absolute;
+    height: 320px;
+    width: 220px;
+}
+
+.page6slider{
+    top: 540%;
+    left: 53%;
+    position: absolute;
+}
+
+.subscribe1{
+    top: 560%;
+    position: absolute;
+    left: 15%;
+}
+
+.footer1{
+    top: 630%;
+    position: absolute;
+    left: 15%;
+}
+
+.footer2{
+    top: 630%;
+    position: absolute;
+    left: 50%;
+}
+
+.copyright{
+    top: 670%;
+    left: 15%;
+    position: absolute;
+    color: #666666;
+    font-family: "Volkhov", serif;
+    font-size: 12px;
+}
+
+.terms{
+    top: 670%;
+    left: 85%;
+    position: absolute;
+    color: #666666;
+    font-family: "Volkhov", serif;
+    font-size: 12px;
+}
+
+.line{
+    width: 78%;
+    text-align: left;
+    margin-left: 0;
+    top: 665%;
+    position: absolute;
+    left: 15%;
+}
